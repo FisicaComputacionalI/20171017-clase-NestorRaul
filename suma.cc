@@ -1,6 +1,7 @@
 // Programa que calcula la suma de numeros impares del 1 al 10
 //Nestor Raul Mancilla Xinto
 //ultima modificacion 17 octubre 2017
+//Resultado 110
 #include <iostream>
 using namespace std;
 
